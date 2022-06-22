@@ -1,0 +1,17 @@
+body {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+.title {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    color: #2c3e50;
+    margin-top: 60px;
+    //Demo_01-04: Style Vue Components Using CSS Modules
+    border: 5px solid green;
+}
+.subtitle {
+    color: #4fc08d;
+    font-style: italic;
+    //Demo_01-04: Style Vue Components Using CSS Modules
+    border: 3px solid blue;
+}
